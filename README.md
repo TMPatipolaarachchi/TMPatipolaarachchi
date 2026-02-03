@@ -183,19 +183,10 @@ const mali: Developer = {
 <!-- Stats Cards Row 1 -->
 <p>
   <a href="https://github.com/TMPatipolaarachchi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TMPatipolaarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ad3f7&icon_color=6ad3f7&text_color=c9d1d9&ring_color=6ad3f7" alt="Mali's GitHub Stats" />
-  </a>
-  <a href="https://github.com/TMPatipolaarachchi">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TMPatipolaarachchi&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ad3f7&ring=6ad3f7&fire=ff6b6b&currStreakLabel=6ad3f7&sideLabels=6ad3f7&dates=8b949e" alt="Mali's Streak" />
   </a>
 </p>
 
-<!-- Top Languages -->
-<p>
-  <a href="https://github.com/TMPatipolaarachchi">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMPatipolaarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ad3f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
 
 <!-- Activity Graph -->
 <a href="https://github.com/TMPatipolaarachchi">
